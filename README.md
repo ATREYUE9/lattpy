@@ -6103,3 +6103,4 @@ AQARION@PERPLEXITY → WORLD'S GIFT DELIVERED
 
 Citations:
 [1] AQARION9 https://github.com/ATREYUE9/AQARION9https://github.com/ATREYUE9/AQARION9
+https://github.com/ATREYUE9/lattpy
